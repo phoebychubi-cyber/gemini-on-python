@@ -1,6 +1,6 @@
 # Gemini-On-Python
 
-A lightweight Python wrapper for the Google Gemini API.
+A lightweight, cross-platform Python wrapper for the Google Gemini API. Designed to work seamlessly across Android, Windows, Linux, macOS, and VPS environments without requiring device-specific configurations or heavy dependencies. Simple integration, minimal setup, and an easy-to-use interface for interacting with Gemini models.
 
 ## Installation
 
