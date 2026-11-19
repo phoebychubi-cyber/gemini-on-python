@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "gemini-on-python"
-version = "0.1.1"
+version = "0.1.2"
 description = "A lightweight Python client for the Google Gemini API"
 readme = "README.md"
 requires-python = ">=3.9"
