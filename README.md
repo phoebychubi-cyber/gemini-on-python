@@ -19,6 +19,8 @@ response = gemini.ask("In 1809, a British statesman was shot in the buttock duri
 
 print(response)
 ```
+![App Screenshot](Screenshot_20261119-174955.jpg)
+
 
 ## Features
 
